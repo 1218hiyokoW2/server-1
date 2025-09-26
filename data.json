@@ -4,49 +4,57 @@
       "name": "ガーディ",
       "type": "ほのお",
       "weight": 19.0,
-      "ability": "もらいび"
+      "ability": "もらいび",
+      "img": "https://zukan.pokemon.co.jp/zukan-api/up/images/index/84164c6ec5b03871c1bae8d0c9991183.png"
     },
     {
       "name": "コイキング",
       "type": "みず",
       "weight": 10.0,
-      "ability": "すいすい"
+      "ability": "すいすい",
+      "img": "https://zukan.pokemon.co.jp/zukan-api/up/images/index/1834616d5ae210cc15dde465ff60afb0.png"
     },
     {
       "name": "コダック",
       "type": "みず",
       "weight": 19.6,
-      "ability": "しめつけ"
+      "ability": "しめつけ",
+      "img": "https://zukan.pokemon.co.jp/zukan-api/up/images/index/2d71923469a502af868dfd337853964a.png"
     },
     {
       "name": "サンダース",
       "type": "でんき",
       "weight": 24.5,
-      "ability": "ちくでん"
+      "ability": "ちくでん",
+      "img": "https://zukan.pokemon.co.jp/zukan-api/up/images/index/3c882f8bd3ada9d4f19a0f15d7cde3e1.png"
     },
     {
       "name": "ピカチュウ",
       "type": "でんき",
       "weight": 6.0,
-      "ability": "せいでんき"
+      "ability": "せいでんき",
+      "img": "https://zukan.pokemon.co.jp/zukan-api/up/images/index/5bb0cfd44302cd4df0c0c88d37457931.png"
     },
     {
       "name": "ヒトカゲ",
       "type": "ほのお",
       "weight": 8.5,
-      "ability": "もうか"
+      "ability": "もうか",
+      "img": "https://zukan.pokemon.co.jp/zukan-api/up/images/index/89953014f442146518ef45787d9bb0a4.png"
     },
     {
       "name": "ブースター",
       "type": "ほのお",
       "weight": 25.0,
-      "ability": "もらいび"
+      "ability": "もらいび",
+      "img": "https://zukan.pokemon.co.jp/zukan-api/up/images/index/ce7a495289998df2591b160b05db6ab2.png"
     },
     {
       "name": "ミュウ",
       "type": "エスパー",
       "weight": 4.0,
-      "ability": "シンクロ"
+      "ability": "シンクロ",
+      "img": "https://zukan.pokemon.co.jp/zukan-api/up/images/index/7659ce2b6e793d5df430205199c7203a.png"
     }
   ]
 }
